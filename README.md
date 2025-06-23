@@ -59,5 +59,5 @@ This project is open-source and available for free use.
 
 ## Contact Us
 - email: thetruesammyjay@gmail.com
-- X(formerly Twitter): x.com/thatbwoysammyj
-- Telegram: t.me/sammyjayisthename
+- X(formerly Twitter): [X](x.com/thatbwoysammyj)
+- Telegram: [Telegram](t.me/sammyjayisthename)
